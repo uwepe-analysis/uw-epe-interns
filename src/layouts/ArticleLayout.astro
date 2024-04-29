@@ -1,0 +1,19 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+const { title } = Astro.props;
+---
+
+<BaseLayout {title}>
+  <div class="flex min-h-screen">
+    <!-- Sidebar -->
+    <div class="w-64 bg-neutral-100 p-4">
+      <p>Sidebar content will go here eventually</p>
+    </div>
+
+    <!-- Main content -->
+    <div class="p-8 pt-16 max-w-3xl mx-auto pb-20">
+      <slot />
+    </div>
+  </div>
+</BaseLayout>

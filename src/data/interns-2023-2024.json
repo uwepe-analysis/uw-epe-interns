@@ -1,0 +1,47 @@
+[
+  {
+    "name": "William",
+    "school": "Lakeside School",
+    "projects": ["Photon jets"]
+  },
+  {
+    "name": "Nishka",
+    "school": "Interlake High School",
+    "projects": ["Large Radius Tracking"]
+  },
+  {
+    "name": "An",
+    "school": "Interlake High School",
+    "projects": ["Large Radius Tracking"]
+  },
+  {
+    "name": "Abhinand",
+    "school": "Interlake High School",
+    "projects": ["Higgs Boson"]
+  },
+  {
+    "name": "Ming",
+    "school": "Interlake High School",
+    "projects": ["Higgs Boson"]
+  },
+  {
+    "name": "Sophie",
+    "school": "Holy Names Academy",
+    "projects": ["Gravitational Waves"]
+  },
+  {
+    "name": "Owen",
+    "school": "Interlake High School",
+    "projects": ["Gravitational Waves"]
+  },
+  {
+    "name": "Lucas",
+    "school": "Interlake High School",
+    "projects": ["Calorimeter"]
+  },
+  {
+    "name": "Nina",
+    "school": "Interlake High School",
+    "projects": ["Quantum Control"]
+  }
+]
